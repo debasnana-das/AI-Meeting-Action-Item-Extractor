@@ -2,6 +2,3 @@ fastapi
 uvicorn
 pydantic
 streamlit
-transformers
-sentencepiece
-torch
